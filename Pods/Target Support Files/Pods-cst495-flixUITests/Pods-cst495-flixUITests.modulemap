@@ -1,0 +1,6 @@
+framework module Pods_cst495_flixUITests {
+  umbrella header "Pods-cst495-flixUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
